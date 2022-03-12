@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Higa</h1>
-<h3 align="center">Frontend Jr developer from Brazil</h3>
+<h3 align="center">Frontend Jr developer from Brazil - Take a look at my favorite projects</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
